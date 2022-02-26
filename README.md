@@ -23,6 +23,6 @@ Software: Visual Studio Code, plataforma AWS(Amazon) con Nginx, Apache, MariaDB 
 Este proyecto tendrá aproximadamente una duración de dos meses, abierto a cualquier modificación sin que afecte a la finalidad descrita en el anterior apartado.
 Se realizará con material propio, y en el caso del transmisor y receptor se investigará cual será el más adecuado, para su posterior compra. 
 <br></n> 
-<div align="center">
+
 ![anteproyecto](https://user-images.githubusercontent.com/98828996/155860085-9191c78a-9d41-419e-b971-f1202542dc21.png)
-</div>
+
