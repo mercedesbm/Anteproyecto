@@ -14,7 +14,11 @@ Este proyecto tiene como finalidad ayudar a personas con dificultades en la adap
 Su función principal es dar acceso al usuario a una página web mediante el uso de un dispositivo transmisor de señal bluetooth, donde se le acompañará durante la realización de la gestión que desee realizar
 
 <h4>Medios hardware y software </h4>
-Hardware: Mando transmisor de señal bluetooth, receptor USB de señal, ordenador propio
+Hardware: Mando transmisor de señal bluetooth, receptor USB de señal y ordenador.
 <br></n>
 Software: Visual Studio Code, plataforma AWS(Amazon) con Nginx, Apache, MariaDB y PHP
 
+
+<h4> Planificación </h4>
+Este proyecto tendrá aproximadamente una duración de dos meses, abierto a cualquier modificación sin que afecte a la finalidad descrita en el anterior apartado.
+Se realizará con material propio, y en el caso del transmisor y receptor se investigará cual será el más adecuado, para su posterior compra. 
