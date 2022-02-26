@@ -6,4 +6,7 @@ Este problema ha llevado a estas personas, mayoritariamente adultos de avanzada 
 Este proyecto nace ante la necesidad de cubrir ese abandono de manera parcial, con los medios y conocimientos que dispongo.
 
 <h4> Finalidad</h4>
+Este proyecto tiene como finalidad ayudar a personas con dificultades en la adaptación de los medios digitales, acercándoles con un entorno simple y de fácil acceso los conocimientos para saber realizar ciertas gestiones esenciales, con un lenguaje cercano y muy intuitivo. 
 
+<h4> Objetivo </h4>
+Su función principal es dar acceso al usuario a una página web mediante el uso de un dispositivo transmisor de señal bluetooth
